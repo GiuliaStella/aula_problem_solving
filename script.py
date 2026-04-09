@@ -36,3 +36,6 @@ print(simplify(expr_i))
 
 expr_j = (3*x**2*y) * ( 2*x**3)
 print(simplify(expr_j))
+
+
+
